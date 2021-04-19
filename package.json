@@ -1,0 +1,19 @@
+{
+  "name": "@rajasardar/ns",
+  "version": "1.0.0",
+  "description": "It is a package which takes a name input as a string and return two letter string ex: \"Elon Musk\" will return EM, \"Elon\" will return EL ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "name",
+    "shortner",
+    "name",
+    "short",
+    "short",
+    "name"
+  ],
+  "author": "Raja Sardar",
+  "license": "ISC"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@rajasardar/ns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a package which takes a name input as a string and return two letter string ex: \"Elon Musk\" will return EM, \"Elon\" will return EL ",
   "main": "app.js",
   "scripts": {
